@@ -172,6 +172,7 @@ void loop() {
   }
 }
 
-![This is an image](https://raw.githubusercontent.com/0GabrielGonzalez0/Gabriel_Gonzalez/main/Captura%20de%20pantalla%202022-11-17%20160024.png)
+
+![Captura de pantalla 2022-11-17 160024](https://user-images.githubusercontent.com/89551000/202587154-331b841e-326a-4995-9af9-724edea7ef0f.png)
 
 
